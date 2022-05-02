@@ -1,7 +1,9 @@
-### Hi there 👋
+
+
+<h1 align="center">Hi 👋, I'm runtime</h1>
 
 <!--
-**runtimme/runtimme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**runtimem/runtimem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=runtimem&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+# Recent Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+

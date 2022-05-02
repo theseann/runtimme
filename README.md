@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 # Recent Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [pixel1-android10内核编译](https://reao.io/archives/330/)
+- [jnitrace note](https://reao.io/archives/320/)
+- [Frida 随手记](https://reao.io/archives/241/)
+- [[龙哥投稿] Unidbg Hook 大全](https://reao.io/archives/90/)
+- [手动编译Hluda Frida Server](https://reao.io/archives/54/)
 <!-- BLOG-POST-LIST:END -->
 

@@ -1,6 +1,5 @@
 
 
-<h1 align="center">Hi 👋, I'm runtime</h1>
 
 <!--
 **runtimem/runtimem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,9 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=runtimme&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
- <img src="https://github-readme-stats.vercel.app/api?username=runtimme&show_icons=true" title="c" alt="c" width="100%" height="40"/>&nbsp;
-</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

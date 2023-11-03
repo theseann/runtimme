@@ -22,12 +22,3 @@
 
 ---
 
-### Recent Posts
-<!-- BLOG-POST-LIST:START -->
-- [制作启动盘](https://reao.io/archives/356/)
-- [网易新闻2022年度盘点](https://reao.io/archives/354/)
-- [微信 ｜ 数据库解密](https://reao.io/archives/347/)
-- [微信 | 对掷骰子和猜拳功能的分析](https://reao.io/archives/331/)
-- [pixel1-android10内核编译](https://reao.io/archives/330/)
-<!-- BLOG-POST-LIST:END -->
-
